@@ -15,7 +15,7 @@ pump must be able to generate enough pressure to overcome the resistance of the 
 through the pipes and up to the tank.
 
 this applicatin is calculate the flow rate of pump by using:
--Pump Capacity 
+-Pump capacity (Pressure) 
 -Pump Efficiency
--Height of the tank or vehicle being filled
+-Height of the tank or vehicle being filled(Head)
 -Resistance of the fluid being pumped
